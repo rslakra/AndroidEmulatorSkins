@@ -7,8 +7,8 @@ The more skins will be added later.
     These links provide the references of the websites, from where these skins are copied and credit goes to everyone for that.
     
 ### Samsung Galaxy
-    - Samsung (https://developer.samsung.com/galaxy/emulator-skin/guide#android-studio)
-    -- Galaxy S Series (https://developer.samsung.com/galaxy/emulator-skin/s)
-    -- Galaxy Note Series (https://developer.samsung.com/galaxy/emulator-skin/note)
-    -- Galaxy Tab Series (https://developer.samsung.com/galaxy/emulator-skin/tab)
+- Samsung (https://developer.samsung.com/galaxy/emulator-skin/guide#android-studio)
+- Galaxy S Series (https://developer.samsung.com/galaxy/emulator-skin/s)
+- Galaxy Note Series (https://developer.samsung.com/galaxy/emulator-skin/note)
+- Galaxy Tab Series (https://developer.samsung.com/galaxy/emulator-skin/tab)
     
